@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="fruits salad" width="220px" src="https://user-images.githubusercontent.com/9595529/146389145-70c3b0d4-ec1b-47b4-af2b-319de4dcdbc5.png" width="160px">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Salada de Frutas</h1>
 
-## Available Scripts
+<h1 align="center">
+    <img alt="Ambevtech" src="https://user-images.githubusercontent.com/9595529/146388975-f350340b-a39f-4fe5-9c3e-1a99eab0f30c.png" />
+</h1>
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+## 🧪 Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [React](https://reactjs.org)
 
-### `yarn test`
+## 🚀 Como executar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone o projeto e acesse a pasta do mesmo.
 
-### `yarn build`
+```bash
+$ git clone https://github.com/andregodasi/fruits-salad
+$ cd fruits-salad
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para iniciá-lo, siga os passos abaixo:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Instalar as dependências
+$ yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Iniciar o projeto
+$ yarn start
 
-### `yarn eject`
+# Realizar os testes
+$ yarn test
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💻 Projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Este projeto é uma apresentação no evento Summit para a [AmbevTech](https://ambevtech.com.br/), explicando e refatorando um projeto em React com Class para Hooks.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📝 License
 
-## Learn More
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🦸 Autor
 
-### Code Splitting
+<a href="https://www.linkedin.com/in/andre-godasi/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHljtbAqS6Csg/profile-displayphoto-shrink_200_200/0/1634365125855?e=1645056000&v=beta&t=2YEEja2gcDw_bqB_A-ygowz2aEMDYjj-jbAMHUGAcbg" width="100px;" alt=""/>
+ <br />
+ <sub><b>André Gonçalves</b></sub></a> <a href="https://www.linkedin.com/in/andre-godasi/" title="André Gonçalves">🚀</a>
+ <br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📝 Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ❤️ por André Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/andre-godasi/)
